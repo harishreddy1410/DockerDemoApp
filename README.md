@@ -35,6 +35,7 @@ in case of browser you should be able to access it from **http://localhost:8080/
 
 Once you are able to test your changes, you have successfully containerized the dotnet webapi application. 
 You can remove the created image and container by using the below commands 
+
   **docker ps -a**
   
   **docker stop myapp**
