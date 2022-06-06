@@ -4,12 +4,12 @@ This is the sample webapi application to demonstrate building docker image and r
     1) VSCode IDE 
     2) Docker desktop for windows and should be running in your machine
 # Steps involved are as follows     
-    **dotnet new **
-    **dotnet build**
-    **dotnet run **
-    Test you application and hit Ctrl+C
-    **dotnet new gitignore**
-    **dotnet publish**
+  **dotnet new**
+  **dotnet build**
+  **dotnet run**
+  Test you application and hit Ctrl+C
+  **dotnet new gitignore**
+  **dotnet publish**
 
 //your sample webapi should be running successfully and dll's are ready 
 Please follow the below commands to create a docker image and run your image in a container 
